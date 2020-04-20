@@ -43,5 +43,5 @@ target/
 Packages/
 
 # OpenWhisk project-specific
-openwhisk-src
-.wskprops
+#openwhisk-src
+#.wskprops
